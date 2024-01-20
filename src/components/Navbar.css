@@ -1,0 +1,11 @@
+.logo-span{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.category-btn{
+    cursor: pointer;
+    font-weight: bold;
+}
